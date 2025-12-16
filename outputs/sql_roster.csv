@@ -1,0 +1,4 @@
+company_name,expected,observed,pct_diff,severity
+acme.com,45,11,75.56,High
+nowhere.com,40,12,70,High
+pinecrestfoods.com,60,21,65,High

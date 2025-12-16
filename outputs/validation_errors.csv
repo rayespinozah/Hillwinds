@@ -1,0 +1,2 @@
+row_id,field,error_reason
+EMP_34,company_ein,Missing EIN and cannot infer from email
